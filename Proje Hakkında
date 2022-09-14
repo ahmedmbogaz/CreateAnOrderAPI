@@ -1,0 +1,6 @@
+# CreateAnOrderAPI
+Çok katmanlı mimari kullanılarak API işlemleri yapılmıştır(BackEnd).
+-Entity ler oluşturulmuş ve CODE First kullanılarak veri tabanı işlemleri yapılmıştır.
+-Projede sabit ve her zaman kullanılacak kodlar CORE katmanında tanımlanmıştır.
+-Business katmanında iş kodları algoritmalar yazılmıştır.
+-WebAPI katmanında API ler yazılmıştır.
