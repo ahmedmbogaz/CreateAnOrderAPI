@@ -13,6 +13,5 @@ namespace Entity.Concrete
         public string ProductName { get; set; }
         public int StockQty { get; set; }
         public float Price { get; set; }
-        public ICollection<Order> Orders { get; set; }
     }
 }

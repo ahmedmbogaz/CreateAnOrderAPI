@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entity.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,5 +12,7 @@ namespace Business.Constants
         public static string OrderAdded = "Sipariş Eklendi";
 
         public static string ProductAdded = "Ürün Eklendi";
+
+        public static string ProductListed = "Ürün Listelendi";
     }
 }
